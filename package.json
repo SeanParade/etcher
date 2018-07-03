@@ -59,7 +59,7 @@
     "debug": "3.1.0",
     "drivelist": "6.2.2",
     "electron-is-running-in-asar": "1.0.0",
-    "etcher-sdk": "github:resin-io-modules/etcher-sdk#9d483eec059a9e149d0f1c2e2746b8a816f87bb4",
+    "etcher-sdk": "github:resin-io-modules/etcher-sdk#babc17ce127beaa71bc2c1ab911c83df08fa5d70",
     "file-type": "4.1.0",
     "flexboxgrid": "6.3.0",
     "gpt": "1.0.0",
